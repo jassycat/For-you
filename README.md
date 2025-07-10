@@ -179,7 +179,6 @@ You can deploy this project using Netlify's free plan:
 * If you used the drag and drop method, simply drag and drop your folder again
 * If you connected to Git, just push changes to your repository
 
-
 ## Project Extension Ideas
 
 - Add click functionality to the close and shrink icons
